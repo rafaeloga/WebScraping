@@ -1,8 +1,10 @@
-,symbol,date,open,high,low,close,volume,marketCap
-0,MINISHIB,"Oct 20, 2021",$0,$0,$0,$0,$0,$0
-1,MINISHIB,"Oct 19, 2021",$0,$0,$0,$0,$0,$0
-2,MINISHIB,"Oct 18, 2021",$0,$0,$0,$0,$0,$0
-3,MINISHIB,"Oct 17, 2021",$0,$0,$0,$0,$0,$0
-4,MINISHIB,"Oct 16, 2021",$0,$0,$0,$0,$0,$0
-5,MINISHIB,"Oct 15, 2021",$0,$0,$0,$0,$0,$0
-6,MINISHIB,"Oct 14, 2021",$0,$0,$0,$0,$0,$0
+symbol,date,open,high,low,close,volume,marketCap
+MINISHIB,"Oct 22, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 21, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 20, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 19, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 18, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 17, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 16, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 15, 2021",$0,$0,$0,$0,$0,$0
+MINISHIB,"Oct 14, 2021",$0,$0,$0,$0,$0,$0

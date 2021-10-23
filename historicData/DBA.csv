@@ -1,2 +1,4 @@
-,symbol,date,open,high,low,close,volume,marketCap
-0,DBA,"Oct 20, 2021",$33.37,$34.38,$24.70,$27.23,"$180,902",$0
+symbol,date,open,high,low,close,volume,marketCap
+DBA,"Oct 22, 2021",$23.46,$25.10,$18.50,$19.71,"$44,028",$0
+DBA,"Oct 21, 2021",$27.25,$27.48,$21.23,$23.48,"$127,011",$0
+DBA,"Oct 20, 2021",$33.37,$34.38,$24.70,$27.23,"$180,902",$0

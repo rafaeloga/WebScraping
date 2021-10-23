@@ -1,7 +1,9 @@
-,symbol,date,open,high,low,close,volume,marketCap
-0,TAILS,"Oct 20, 2021",$0,$0,$0,$0,$0,$0
-1,TAILS,"Oct 19, 2021",$0,$0,$0,$0,$0,$0
-2,TAILS,"Oct 18, 2021",$0,$0,$0,$0,$0,$0
-3,TAILS,"Oct 17, 2021",$0,$0,$0,$0,$0,$0
-4,TAILS,"Oct 16, 2021",$0,$0,$0,$0,$0,$0
-5,TAILS,"Oct 15, 2021",$0,$0,$0,$0,$0,$0
+symbol,date,open,high,low,close,volume,marketCap
+TAILS,"Oct 22, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 21, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 20, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 19, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 18, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 17, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 16, 2021",$0,$0,$0,$0,$0,$0
+TAILS,"Oct 15, 2021",$0,$0,$0,$0,$0,$0

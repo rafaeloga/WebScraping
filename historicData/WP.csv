@@ -1,2 +1,4 @@
-,symbol,date,open,high,low,close,volume,marketCap
-0,WP,"Oct 20, 2021",$0.05502,$0.07,$0.0406,$0.06479,$0,$0
+symbol,date,open,high,low,close,volume,marketCap
+WP,"Oct 22, 2021",$0.064,$0.07899,$0.04798,$0.06949,$0,$0
+WP,"Oct 21, 2021",$0.0648,$0.06483,$0.04129,$0.064,$0,$0
+WP,"Oct 20, 2021",$0.05502,$0.07,$0.0406,$0.06479,$0,$0

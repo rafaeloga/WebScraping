@@ -1,2 +1,4 @@
-,symbol,date,open,high,low,close,volume,marketCap
-0,DIVINE,"Oct 20, 2021",$0.142,$0.146,$0.1303,$0.1398,"$61,176",$0
+symbol,date,open,high,low,close,volume,marketCap
+DIVINE,"Oct 22, 2021",$0.1317,$0.1348,$0.121,$0.1226,"$7,037",$0
+DIVINE,"Oct 21, 2021",$0.1396,$0.1462,$0.1317,$0.1318,"$7,189",$0
+DIVINE,"Oct 20, 2021",$0.142,$0.146,$0.1303,$0.1398,"$61,176",$0
