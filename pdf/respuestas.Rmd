@@ -5,6 +5,7 @@ date: "01/11/2021"
 output:
   pdf_document:
     toc: true
+    toc_depth: 1
     number_sections: true
 fontsize: 12pt
 toc-title: "Índice"
@@ -31,20 +32,38 @@ La información contenida en este conjunto de datos se ha extraído del sitio we
 
 # Contenido
 
-El dataset que aquí se presenta contiene información diaria de 6336 criptomonedas entre los días 31 de octubre de 2020 y 29 de octubre de 2021.
+Tal y como se ha comentado anteriormente, los datos se han extraído del sitio web [coinmarketcap.com](https://coinmarketcap.com/). Para ello se han utilizado técnicas de Web Scraping y el lenguaje Python para extraer la información que estaba alojada en las páginas HTML.
+
+El dataset creado se divide en 3 partes: Lista de criptomonedas, información histórica de criptomonedas y logos de las criptomonedas. Comentamos cada una de estas partes.
+
+## Lista de criptomonedas:
+
+Fichero csv que contiene una lista con más de 6000 criptomonedas. Contiene con siguientes campos:
+
+- **name:** Nombre de la criptomoneda
+- **symbol:** Código identificador de criptomoneda
+- **logo:** Nombre del fichero que contiene el logo de la criptomoneda
+- **historicalFile:** Nombre del fichero con la información histórica de la criptomoneda
+- **url:** url que dentro de coinmarketcap.com que contiene la información del a criptomoneda
+
+## Información histórica de criptomonedas:
+
+Hay un fichero csv con información diaria para cada criptomoneda. La información recogida se corresponde con el período comprendido entre los días 31 de octubre de 2020 y 29 de octubre de 2021.
 
 Para cada criptomoneda se recogen los siguientes campos:
 
 - **symbol:** Código identificador de la criptomoneda
 - **date:** Fecha de la sesión
-- **open:** precio de la criptomoneda en el momento de la apertura de la sesión diaria
-- **high:** precio máximo alcanzado durante la sesión diaria
-- **low:** precio mínimo alcanzado durante la sesión diaria
-- **close:** precio de la criptomoneda en el momento de cierre de la sesión diaria
-- **volumen:** Volumen en dólares de las criptomonedas intercambiadas durante la sesión diaria
+- **open:** Precio de la criptomoneda en el momento de la apertura de la sesión diaria
+- **high:** Precio máximo alcanzado durante la sesión diaria
+- **low:** Precio mínimo alcanzado durante la sesión diaria
+- **close:** Precio de la criptomoneda en el momento de cierre de la sesión diaria
+- **volumen:** Valor de las criptomonedas intercambiadas durante la sesión diaria
 - **marketcap:** Valor de capitalización de la criptomoneda.
 
-Tal y como se ha comentado anteriormente, los datos se han extraído del sitio web [coinmarketcap.com](https://coinmarketcap.com/). Para ello se han utilizado técnicas de Web Scraping y el lenguaje Python para extraer la información que estaba alojada en las páginas HTML.
+## Logos de las criptomonedas
+
+Para cada una de las criptomonedas se ha extraído, además, su logo. El nombre de los logos es el código identificador de la criptomoneda (campo *symbol*).
 
 # Agradecimientos
 
